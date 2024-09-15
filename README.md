@@ -5,4 +5,4 @@
 
 ![preview img](./image/img-1.png)
 ![preview img](./image/img-2.png)
-![preview img](./image/img-3.pngs)
+![preview img](./image/img-3.png)
